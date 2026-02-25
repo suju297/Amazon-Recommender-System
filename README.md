@@ -1,6 +1,6 @@
-# Recommender System for E-commerce (CS6140 Group 3)
+# Amazon Recommender System
 
-Course project exploring recommender-system approaches on the Amazon Reviews 2023 dataset (`All_Beauty` subset), including:
+Machine learning project exploring recommender-system approaches on the Amazon Reviews 2023 dataset (`All_Beauty` subset), including:
 
 - Collaborative Filtering (ALS / matrix factorization)
 - Content-Based Filtering
@@ -14,9 +14,9 @@ Course project exploring recommender-system approaches on the Amazon Reviews 202
 
 ## Notebooks
 
-- `notebooks/CS6140 Group 3 Collaborative Filtering.ipynb`
-- `notebooks/CS6140 Group 3 Content-based Filtering.ipynb`
-- `notebooks/CS6140 Group 3 Neural Collaborative Filtering.ipynb`
+- `notebooks/collaborative-filtering.ipynb`
+- `notebooks/content-based-filtering.ipynb`
+- `notebooks/neural-collaborative-filtering.ipynb`
 
 ## Setup (Local or Colab)
 
@@ -49,4 +49,3 @@ Some notebook cells assume Google Colab paths (for example `/content/...`) and m
 
 - This repository was organized for source control after the project work was completed.
 - Original project period: September 2024 to November 2024.
-
