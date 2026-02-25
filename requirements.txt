@@ -1,0 +1,11 @@
+datasets
+jupyter
+matplotlib
+numpy
+pandas
+pyspark
+scikit-learn
+seaborn
+torch
+tqdm
+

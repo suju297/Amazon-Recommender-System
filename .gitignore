@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Generated datasets / artifacts from notebooks
+data/*
+!data/README.md
+*.csv
+prepared_data.csv
+preprocessed_amazon_reviews_all_beauty.csv
+train_data_pyspark.csv/
+test_data_pyspark.csv/
+als_model/
+
+# Spark / temp output
+spark-warehouse/
+metastore_db/
+derby.log
+
